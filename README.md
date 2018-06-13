@@ -6,18 +6,17 @@ Pgeon-server is a production server that is used to eventually be put on top of 
 
 
 ## Prerequisites:
-Make sure you have talked to another front-end dev to make sure that this repo is currently the one being used and if there is anything that should be known before moving forward. make sure you have **npm** installed globally before starting since this will not work without it.
+Make sure you have talked to another front-end dev to make sure that this repo is currently the one being used andasdfif there is anything that should be known before moving forward. make sure you have **npm** installasdfed globally before starting since this will not work without it.
 
-
-## Installing:
+adsfadf
 Make sure to first download the repo. Navigate to the folder you will be working in from command line or Terminal. Once you are in the folder desired, paste the following command
 
 ```git clone https://github.com/russwfranklin/PgeonUI.git```
 
 Once this is download go to
-
+adsf
 ```cd PgeonUI```
-
+Testing 132 2134 134
 Next you will want to install everying doing
 
 ```npm install ```
@@ -26,7 +25,7 @@ and start the server which will open localhost:3333
 
 ```npm start```
 
-You know should be able to navigate to your browser to **localhost:3333** to view to project. Any changes done should reflect automatically.
+You know should be able to adsfanavigate to your browser to **localhost:3333** to view to project. Any changes done should reflect automatically.
 
 
 
